@@ -1,0 +1,13 @@
+{
+  "andoridAppUrl": "bs://2ecc4d967118af52c7ee7f14ebca0314e8669625",
+  "users": {
+    "webPortalAdmin": {
+      "login": "pr@dhdev.team",
+      "password": "welcome1"
+    },
+    "adminSnehal": {
+      "login": "sp@dhdev.team",
+      "password": "welcome1"
+    }
+  }
+}

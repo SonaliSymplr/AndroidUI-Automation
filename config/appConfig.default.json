@@ -1,0 +1,350 @@
+{
+  "adminWebPortalUrl": "https://secure.dochalo.com/Messages.aspx",
+  "users": {
+    "webPortalAdmin": {
+      "login": "pr@dhdev.team",
+      "password": "welcome1"
+    },
+    "adminSnehal": {
+      "login": "sp@dhdev.team",
+      "password": "welcome1"
+    },
+    "androidAdmin": {
+      "login": "androidadmin@dhauto.com",
+      "password": "welcome1"
+    },
+    "admin": {
+      "login": "androidautomationuser@dhauto.com",
+      "password": "welcome1"
+    },
+    "passcodeUser": {
+      "login": "androidpasscodeuser@dhauto.com",
+      "password": "welcome1"
+    },
+    "myscheduleUser": {
+      "login": "androidmyscheduleuser@dhauto.com",
+      "password": "welcome1"
+    },
+    "providerUser2": {
+      "login": "provider2user@dhauto.com",
+      "password": "welcome1"
+    },
+    "updateAccount": {
+      "login": "androidupdateaccount@dhauto.com",
+      "password": "welcome1"
+    },
+    "patientUser": {
+      "login": "androidpatientuser@dhauto.com",
+      "password": "welcome1"
+    },
+    "patientUserAttached": {
+      "login": "androidpatientuserattached@dhauto.com",
+      "password": "welcome1"
+    },
+    "patientReceiverAttached": {
+      "login": "patientreceiverattached@dhauto.com",
+      "password": "welcome1"
+    },
+    "searchContact": {
+      "login": "androidsearchcontact@dhauto.com",
+      "password": "welcome1"
+    },
+    "user1": {
+      "login": "user1@dhauto.com",
+      "password": "welcome1"
+    },
+    "renameGroup": {
+      "login": "androidrenamegroup@dhauto.com",
+      "password": "welcome1"
+    },
+    "groupMember1": {
+      "login": "groupmember1@dhauto.com",
+      "password": "welcome1"
+    },
+    "groupMember2": {
+      "login": "groupmember2@dhauto.com",
+      "password": "welcome1"
+    },
+    "groupMember3": {
+      "login": "groupmember3@dhauto.com",
+      "password": "welcome1"
+    },
+    "personalGroup": {
+      "login": "androidpersonalgroup@dhauto.com",
+      "password": "welcome1"
+    },
+    "androidQuickUser": {
+      "login": "androidquickuser@dhauto.com",
+      "password": "welcome1"
+    },
+    "androidUrgentReceiver": {
+      "login": "androidurgentreceiver@dhauto.com",
+      "password": "welcome1"
+    },
+    "organizationView": {
+      "login": "orgviewforandroid@dhauto.com",
+      "password": "welcome1"
+    },
+    "passcodeuser": {
+      "login": "passlog@dhauto.com",
+      "password": "welcome1"
+    },
+    "passcodeLogoutuser": {
+      "login": "passcodelogout@dhauto.com",
+      "password": "welcome1"
+    },
+    "messagesender": {
+      "login": "Androidmessagesender@dhauto.com",
+      "password": "welcome1"
+    },
+    "messagereceiver": {
+      "login": "Androidmessagereceiver@dhauto.com",
+      "password": "welcome1"
+    },
+    "createGroup": {
+      "login": "Creategroup@dhauto.com",
+      "password": "welcome1"
+    },
+    "groupRename": {
+      "login": "grouprename@dhauto.com",
+      "password": "welcome1"
+    },
+    "distlistadmin": {
+      "login": "Androiddistadmin@dhauto.com",
+      "password": "welcome1"
+    },
+    "distreceiver": {
+      "login": "Androiddistreceiver@dhauto.com",
+      "password": "welcome1"
+    },
+    "offsender": {
+      "login": "Androidoffsender@dhauto.com",
+      "password": "welcome1"
+    },
+    "offdutyreceiver": {
+      "login": "androidoffduty@dhauto.com",
+      "password": "welcome1"
+    },
+    "autoforwarduser": {
+      "login": "Androidautoforward@dhauto.com",
+      "password": "welcome1"
+    },
+    "fwdsender": {
+      "login": "Androidfwdsender@dhauto.com",
+      "password": "welcome1"
+    },
+    "ForwaardingTo": {
+      "login": "Androidfwduser@dhauto.com",
+      "password": "welcome1"
+    },
+    "CriticalTeamAdmin": {
+      "login": "criticalTeamAdmin@dhauto.com",
+      "password": "welcome1"
+    },
+    "CriticalTeamuser": {
+      "login": "CriticalTeamUser1@dhauto.com",
+      "password": "welcome1"
+    },
+    "CriticalMsg": {
+      "login": "Androidcrtteamsender@dhauto.com",
+      "password": "welcome1"
+    },
+    "Urgentmsgreceiver": {
+      "login": "Androidcrtteamreceiver@dhauto.com",
+      "password": "welcome1"
+    },
+    "SenderUser": {
+      "login": "Androidsenderuser@dhauto.com",
+      "password": "welcome1"
+    },
+    "Imagereceiver": {
+      "login": "Androidattachimage@dhauto.com",
+      "password": "welcome1"
+    },
+    "Forwarduser": {
+      "login": "Androidforwardimage@dhauto.com",
+      "password": "welcome1"
+    },
+    "Autoforwarduser": {
+      "login": "Androidautoforward@dhauto.com",
+      "password": "welcome1"
+    },
+    "AutoFwdSender": {
+      "login": "Androidautofwdsender@dhauto.com",
+      "password": "welcome1"
+    },
+    "providerUser": {
+      "login": "provideruser@dhauto.com",
+      "password": "q1w2e3R$"
+    },
+    "MySchedule": {
+      "login": "servicerole2@dhauto.com",
+      "password": "welcome1"
+    },
+    "Serviceattendee": {
+      "login": "servicerole1@dhauto.com",
+      "password": "welcome1"
+    },
+    "GroupAdmin": {
+      "login": "groupadmin@dhauto.com",
+      "password": "welcome1"
+    },
+    "GroupMember1": {
+      "login": "grpmember1@dhauto.com",
+      "password": "welcome1"
+    },
+    "QuickNotesender": {
+      "login": "quicknotesender@dhauto.com",
+      "password": "welcome1"
+    },
+    "QuickNotereceiver": {
+      "login": "quicknotereceiver@dhauto.com",
+      "password": "welcome1"
+    },
+    "Multiusermessagesender": {
+      "login": "multiusersender@dhauto.com",
+      "password": "welcome1"
+    },
+    "Multiusermessageuser1": {
+      "login": "multmsguser1@dhauto.com",
+      "password": "welcome1"
+    },
+    "Multiusermessageuser2": {
+      "login": "multmsguser2@dhauto.com",
+      "password": "welcome1"
+    },
+    "ClinicalTeamAdmin": {
+      "login": "clinicalteamadmin@dhauto.com",
+      "password": "welcome1"
+    },
+    "ClinicalTeamuser1": {
+      "login": "cliteamuser1@dhauto.com",
+      "password": "welcome1"
+    },
+    "roleAndroid": {
+      "login": "roleandroid@dhauto.com",
+      "password": "welcome1"
+    },
+    "sendertoggle": {
+      "login": "sendertoggleandroid@dhauto.com",
+      "password": "welcome1"
+    },
+    "receivertoggle": {
+      "login": "receivertoggleandroid@dhauto.com",
+      "password": "welcome1"
+    },
+    "allscheduleview": {
+      "login": "allschedule@dhauto.com",
+      "password": "welcome1"
+    },
+    "superadmin": {
+      "login": "sadmin@dhauto.com",
+      "password": "welcome1"
+    },
+    "myscheduledetailview": {
+      "login": "myschedeview@dhauto.com",
+      "password": "welcome1"
+    },
+    "myscheduledetailviewuser": {
+      "login": "scheduleuser@dhauto.com",
+      "password": "welcome1"
+    },
+    "GroupMember2": {
+      "login": "grpmember2@dhauto.com",
+      "password": "welcome1"
+    },
+    "CriticalTeamuser2": {
+      "login": "CriticalTeamUser2@dhauto.com",
+      "password": "welcome1"
+    },
+    "messagehandlingsender": {
+      "login": "messagehandlingsender@dhauto.com",
+      "password": "welcome1"
+    },
+    "messagehandlingreceiver": {
+      "login": "messagehandlingreceiver@dhauto.com",
+      "password": "welcome1"
+    },
+    "communityusersearch": {
+      "login": "comusersearch@dhauto.com",
+      "password": "welcome1"
+    },
+    "communityuser": {
+      "login": "communityuser@dhauto.com",
+      "password": "welcome1"
+    },
+    "communityuserforhalohaspital": {
+      "login": "csearch@dhauto.com",
+      "password": "welcome1"
+    },
+    "senderthreadpatient": {
+      "login": "senderexistingthreadpatient@dhauto.com",
+      "password": "welcome1"
+    },
+    "receiverthreadpatient": {
+      "login": "receiverexistingthreadpatient@dhauto.com",
+      "password": "welcome1"
+    },
+    "notifyMesender": {
+      "login": "notifymesender@dhauto.com",
+      "password": "welcome1"
+    },
+    "notifyMeReceiver": {
+      "login": "notifymereceiver@dhauto.com",
+      "password": "welcome1"
+    },
+    "gatekeeperadd": {
+      "login": "gatekeeperadd@dhauto.com",
+      "password": "welcome1"
+    },
+    "passcodeete": {
+      "login": "passcodeete@dhauto.com",
+      "password": "welcome1"
+    },
+    "SAMLuser": {
+      "login": "QAstaff.Saml@halo-test.net",
+      "password": "Tropical1!"
+    },
+    "frwdamgreceiver": {
+      "login": "Frwrdthreceiver@dhauto.com",
+      "password": "welcome1"
+    },
+    "offdutyconflict": {
+      "login": "androidoffdutyconflictconflict@dhauto.com",
+      "password": "welcome1"
+    },
+    "offdutyconflictreceiver": {
+      "login": "androidoffdutyconflictreceiver@dhauto.com",
+      "password": "welcome1"
+    },
+    "autoforwardconflict": {
+      "login": "androidautoforwardconflict@dhauto.com",
+      "password": "welcome1"
+    },
+    "autoforwardconflictreceiver": {
+      "login": "androidautoforwardconflictreceiver@dhauto.com",
+      "password": "welcome1"
+    },
+    "searchAOS": {
+      "login": "user2@dhauto.com",
+      "password": "welcome1"
+    },
+    "gatekeeperconflict": {
+      "login": "gatekeepersender@dhauto.com",
+      "password": "welcome1"
+    },
+    "gatekeeperrecipient": {
+      "login": "gatekeeperrecipient@dhauto.com",
+      "password": "welcome1"
+    },
+    "gatekeeperrecieverconflict": {
+      "login": "gatekeeperreceiverconflict@dhauto.com",
+      "password": "welcome1"
+    },
+    "askUser": {
+      "login": "ask@dhdev.team",
+      "password": "welcome1"
+  }
+}
+}
+

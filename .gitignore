@@ -1,0 +1,8 @@
+reports/
+allure-report/
+allure-results/
+driver-logs/
+node_modules/
+package-lock.json
+.env
+.vscode/

@@ -1,0 +1,62 @@
+{
+  "name": "halo-android-automation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Halo Android UI Automation Framework",
+  "main": "index.js",
+  "keywords": [
+    "webdriverio",
+    "typescript",
+    "wdio",
+    "halo",
+    "android",
+    "mobile",
+    "native app",
+    "phone",
+    "tablet"
+  ],
+  "author": "symplr QE",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/appium-service": "^8.10.5",
+    "@wdio/cli": "^8.10.5",
+    "chai-webdriverio": "^1.0.0",
+    "date-fns": "^2.30.0",
+    "dotenv": "^16.0.3",
+    "find-up": "^6.3.0",
+    "json_merger": "^1.2.0",
+    "moment": "^2.29.4",
+    "path": "^0.12.7",
+    "selenium-webdriver": "^4.9.2",
+    "wdio-video-reporter": "^4.0.2",
+    "wdio-wait-for": "^3.0.4"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.1",
+    "@types/chai": "~4.3.5",
+    "@wdio/allure-reporter": "^8.10.4",
+    "@wdio/browserstack-service": "^8.10.5",
+    "@wdio/cli": "^8.10.5",
+    "@wdio/cucumber-framework": "^8.10.4",
+    "@wdio/dot-reporter": "^8.10.4",
+    "@wdio/local-runner": "^8.10.5",
+    "@wdio/spec-reporter": "^8.10.5",
+    "chai": "~4.0.1",
+    "chromedriver": "^113.0.0",
+    "npm": "^9.6.7",
+    "npm-check-updates": "^16.10.12",
+    "prettier": "^2.8.8",
+    "ts-node": "^10.9.1",
+    "typedoc": "^0.24.7",
+    "typescript": "^5.0.4",
+    "wdio-chromedriver-service": "^8.1.1",
+    "wdio-cucumberjs-json-reporter": "^5.1.4"
+  },
+  "scripts": {
+    "env": "$env:ENV='staging'",
+    "byTag": "npx wdio ./config/browserStack/wdio.samsung.conf.ts --cucumberOpts.tagExpression '@debugging'",
+    "android": "npx wdio ./config/browserStack/wdio.samsung.conf.ts",
+    "prettier": "npx prettier --write .",
+    "allure": "allure generate ./reports/allure-results -c -o ./reports/allure-report && allure open ./reports/allure-report"
+  }
+}

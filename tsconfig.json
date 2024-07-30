@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "types": [
+      "node",
+      "expect-webdriverio",
+      "chai",
+      "@wdio/cucumber-framework",
+      "@wdio/globals/types",
+      "@wdio/types",
+      "module"
+    ],
+    "typeRoots": ["./node_modules/@types", "./types"],
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "noUnusedLocals": true,
+    "outDir": "./dist"
+  }
+}
